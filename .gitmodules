@@ -1,3 +1,6 @@
 [submodule "Miwok_App"]
 	path = Miwok_App
 	url = https://github.com/yusufspear/Miwok_App.git
+[submodule "Place-Of-Interest"]
+	path = Place-Of-Interest
+	url = https://github.com/yusufspear/Place-Of-Interest.git
